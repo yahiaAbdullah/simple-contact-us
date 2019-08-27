@@ -2,7 +2,7 @@
 
 Clone Repository
 
-`git clone git@github.com:yahiaAbdullah/simple-contact-us.git`
+`git clone https://github.com/yahiaAbdullah/simple-contact-us.git`
 
 Move to the newly created directory
 
