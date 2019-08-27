@@ -22,9 +22,6 @@ Generate a new key for your app
 
 `php artisan key:generate`
 
-Run Mix to build assets
-
-`yarn dev`
 
 Reload Database and add some faker(test) data
 
